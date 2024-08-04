@@ -216,7 +216,7 @@ impact.53.desc=A device used to read Data Sticks.%nPowered by IV electricity.%n%
 
 impact.54.name=Raw Crystal Chip Parts
 
-impact.54.desc=A whole chip part can be grown from a raw chip shard using molten europium or bacterial sediment (success rate in the latter case is 60%).
+impact.54.desc=A whole chip part can be grown from a raw chip shard using molten europium or bacterial sediment (success rate in the latter case is 60%%).
 
 impact.55.name=NPIC Wafer
 
@@ -412,7 +412,7 @@ impact.102.desc=A legendary neutronium ingot.
 
 impact.103.name=Quantum Computer
 
-impact.103.desc=A mechanism required for the computation of a research station.%n%nThe quantum computer is connected to the research station using optical fiber cables.%nIn the station, the cable is connected to the optical slave connector, and in the computer, it is connected to the optical master connector.%n%nOne transmitter can only be connected to one receiver.%nIf multiple quantum computers need to be connected to the station, they can be connected in series by installing receivers in each of them.%n%nThe computation chips and the heat vents that cool them are placed in computer racks.%nDepending on the number of racks needed, the length of the computer can be adjusted from 4 to 16 blocks.%nDifferent chips provide different amounts of computations per second.%n%nDuring operation, the racks with chips heat up.%nIf an unbalanced cooling system is chosen, when the rack reaches a temperature above 60% of the critical temperature, the chips in it will burn out and it will start to cool down.%nHint: The most efficient cooling system is 3 Advanced Heat Vents + Tier 3 Graphics Card.%n%nPower Consumption:%nThe quantum computer consumes 524,288 * (1+n) EU/t,%nwhere n is the number of racks with chips (empty racks do not consume energy).%n%nThe blocks in front of the computer's fans (Computer Heat Vent) must be empty.%n%nImportant!%nDo not dismantle the structure while it is operational to avoid explosions!%n%nResolving Uncertainty:%n%nBalance the lighting around the focal points in the Uncertainty Resolver.%nThere are a total of 9 focal points, either active in green or red, and inactive points do not need to be balanced.%nThe LEDs have 2 shades on their surface.%nA darker color indicates the area of influence of the focal point.%nOnly this area needs to be balanced over the focal point to satisfy it.%nThe buttons on the sides are used to select and replace 2 uncertain values.%n%nUncertainty Resolver X automatically resolves uncertainty.
+impact.103.desc=A mechanism required for the computation of a research station.%n%nThe quantum computer is connected to the research station using optical fiber cables.%nIn the station, the cable is connected to the optical slave connector, and in the computer, it is connected to the optical master connector.%n%nOne transmitter can only be connected to one receiver.%nIf multiple quantum computers need to be connected to the station, they can be connected in series by installing receivers in each of them.%n%nThe computation chips and the heat vents that cool them are placed in computer racks.%nDepending on the number of racks needed, the length of the computer can be adjusted from 4 to 16 blocks.%nDifferent chips provide different amounts of computations per second.%n%nDuring operation, the racks with chips heat up.%nIf an unbalanced cooling system is chosen, when the rack reaches a temperature above 60%% of the critical temperature, the chips in it will burn out and it will start to cool down.%nHint: The most efficient cooling system is 3 Advanced Heat Vents + Tier 3 Graphics Card.%n%nPower Consumption:%nThe quantum computer consumes 524,288 * (1+n) EU/t,%nwhere n is the number of racks with chips (empty racks do not consume energy).%n%nThe blocks in front of the computer's fans (Computer Heat Vent) must be empty.%n%nImportant!%nDo not dismantle the structure while it is operational to avoid explosions!%n%nResolving Uncertainty:%n%nBalance the lighting around the focal points in the Uncertainty Resolver.%nThere are a total of 9 focal points, either active in green or red, and inactive points do not need to be balanced.%nThe LEDs have 2 shades on their surface.%nA darker color indicates the area of influence of the focal point.%nOnly this area needs to be balanced over the focal point to satisfy it.%nThe buttons on the sides are used to select and replace 2 uncertain values.%n%nUncertainty Resolver X automatically resolves uncertainty.
 
 impact.104.name=Mysterious Crystal Processing Unit
 
@@ -482,7 +482,7 @@ impact.120.name=Liquid Enriched Naquadah Generator
 
 #
 
-impact.120.desc=A powerful generator that runs on enriched naquadah fuel (Light, Medium, Heavy Enriched Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100% efficiency (ramp-up time of 20 seconds).%n%nOutput power - 8,388,608 EU/t.%n%nThe color of the I-Glass in the structure is insignificant.%n%nQuantum Stuff appears on top when the structure is assembled correctly.
+impact.120.desc=A powerful generator that runs on enriched naquadah fuel (Light, Medium, Heavy Enriched Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100%% efficiency (ramp-up time of 20 seconds).%n%nOutput power - 8,388,608 EU/t.%n%nThe color of the I-Glass in the structure is insignificant.%n%nQuantum Stuff appears on top when the structure is assembled correctly.
 
 impact.121.name=Multi Distillation Tower
 
@@ -812,7 +812,7 @@ impact.201.desc=Ore extraction from layer 1.%n%nThis equipment allows you to man
 
 impact.202.name=Basic Electric Miner
 
-impact.202.desc=Industrial ore extraction.%n%nAn electric miner for extracting valuable minerals. Assemble the multiblock using the Hologram Projector.%n%nThe miner extracts ore in the chunk it is located in.%n%nUsing the Miner Drill Hatch, the miner performs the extraction of valuable minerals.%n%nThe Drill Hatch contains the Drill Head, which has durability.%nFor each cycle of the miner's operation, the durability of the Drill Head decreases.%n%nDifferent tiers of Drill Heads can be used. The tier of the head means that the base ore extraction (x1) is multiplied by the tier level: Extraction = 1 + tier%n%nThe miner has a bonus to extraction. Crushed ore is obtained during the mining process (5% chance of crushing).%n%nTo operate the miner, the structure must contain an Input Hatch, into which Drilling Fluid must be poured. This drilling fluid is consumed during extraction.%n%nImportant!%nOnly one miner can be present in a single chunk.
+impact.202.desc=Industrial ore extraction.%n%nAn electric miner for extracting valuable minerals. Assemble the multiblock using the Hologram Projector.%n%nThe miner extracts ore in the chunk it is located in.%n%nUsing the Miner Drill Hatch, the miner performs the extraction of valuable minerals.%n%nThe Drill Hatch contains the Drill Head, which has durability.%nFor each cycle of the miner's operation, the durability of the Drill Head decreases.%n%nDifferent tiers of Drill Heads can be used. The tier of the head means that the base ore extraction (x1) is multiplied by the tier level: Extraction = 1 + tier%n%nThe miner has a bonus to extraction. Crushed ore is obtained during the mining process (5%% chance of crushing).%n%nTo operate the miner, the structure must contain an Input Hatch, into which Drilling Fluid must be poured. This drilling fluid is consumed during extraction.%n%nImportant!%nOnly one miner can be present in a single chunk.
 
 impact.203.name=Small Battery
 
@@ -1322,7 +1322,7 @@ impact.328.desc=Allows distributing channels for the ME system.%nEach side of th
 
 impact.329.name=ME Point-to-Point Tunnel
 
-impact.329.desc=With this tunnel, you can transmit channels from the ME controller.%n%nME tunnel can also be converted into a liquid tunnel or an electricity distributor by clicking on its plane with a liquid capsule or wire. Electricity loss is 5%.
+impact.329.desc=With this tunnel, you can transmit channels from the ME controller.%n%nME tunnel can also be converted into a liquid tunnel or an electricity distributor by clicking on its plane with a liquid capsule or wire. Electricity loss is 5%%.
 
 impact.330.name=Wireless ME Terminal
 
@@ -1486,7 +1486,7 @@ impact.369.desc=A machine for growing crystals and more.
 
 impact.370.name=Quartzite
 
-impact.370.desc=Grow quartzite in the Autoclave.%n%nMethod 1:%n%nFind quartzite stone in the world. Mine it and obtain quartzite cobblestone.%nCrush it in a Macerator.%nWash the obtained dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should have water.%n%nMethod 2:%n%nFind Grauwacke stone in the world. Mine it.%nCrush it in a Macerator.%nThrow 8 dust into a Centrifuge. Obtain quartzite dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should have water.%n%nMethod 3:%n%nCrush glass with a Hammer, obtaining glass dust.%nThrow it into a Centrifuge and obtain silicon dioxide dust.%nGrow quartzite from silicon dioxide dust in the Autoclave with a low chance (10%). The Autoclave should have water.%nThis is the longest method but does not require searching for the specific rock in the world.
+impact.370.desc=Grow quartzite in the Autoclave.%n%nMethod 1:%n%nFind quartzite stone in the world. Mine it and obtain quartzite cobblestone.%nCrush it in a Macerator.%nWash the obtained dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should have water.%n%nMethod 2:%n%nFind Grauwacke stone in the world. Mine it.%nCrush it in a Macerator.%nThrow 8 dust into a Centrifuge. Obtain quartzite dust.%nGrow quartzite from quartzite dust in the Autoclave with a high chance. The Autoclave should have water.%n%nMethod 3:%n%nCrush glass with a Hammer, obtaining glass dust.%nThrow it into a Centrifuge and obtain silicon dioxide dust.%nGrow quartzite from silicon dioxide dust in the Autoclave with a low chance (10%%). The Autoclave should have water.%nThis is the longest method but does not require searching for the specific rock in the world.
 
 impact.371.name=Ore and Oil Prospector
 
@@ -1554,7 +1554,7 @@ impact.386.desc=Obtain glue in a centrifuge from latex.
 
 impact.387.name=Large Bronze Boiler
 
-impact.387.desc=The large bronze boiler produces a large amount of steam (16,000 liters per second).%n%nTo maintain it, access (right-click) the maintenance hatch and click in the center with tools: hammer, screwdriver, pliers, wrench, wrench, and soldering iron.%nIf you don't have a soldering iron, you can use the boiler without soldering iron maintenance.%nIn this case, the boiler will produce 10% less steam.%n%nIt needs to be constantly supplied with water.
+impact.387.desc=The large bronze boiler produces a large amount of steam (16,000 liters per second).%n%nTo maintain it, access (right-click) the maintenance hatch and click in the center with tools: hammer, screwdriver, pliers, wrench, wrench, and soldering iron.%nIf you don't have a soldering iron, you can use the boiler without soldering iron maintenance.%nIn this case, the boiler will produce 10%% less steam.%n%nIt needs to be constantly supplied with water.
 
 impact.388.name=HV Level!
 
@@ -1578,7 +1578,7 @@ impact.392.desc=Melt this steel that contains many components.
 
 impact.393.name=Cleanroom
 
-impact.393.desc=A cleanroom (CR) is a closed space that maintains high air cleanliness, ensuring sterility.%n%nThe CR itself does not produce anything but allows recipes labeled Needs Cleanroom to be executed.%n%nThe size of the CR is determined by the scale of the available mechanisms, but is limited within the range of 3x3x3 to 15x15x15.%n%nTo maintain the sterility of the CR, it requires a small but stable power consumption. During CR cleaning (from 0 to 100%), more energy is consumed than usual. The cleaning speed depends on the voltage tier of the power system and the dimensions of the CR.%n%nTo start a recipe in machines inside the cleanroom, you need to wait for a complete cleaning (up to 100%).%nThe success rate of the craft operation with the Needs Cleanroom requirement directly depends on the cleanliness of the CR. Therefore, it is necessary to ensure that the CR operates without breakdowns.%n%nTo transmit electricity from an external source to the machines inside the CR, you need to use Diode Cable, which is embedded in the CR wall. The side of the Diode Cable that is different from the others is the electricity output.%nDiode Cable can also be used to limit the transmitted amperage.
+impact.393.desc=A cleanroom (CR) is a closed space that maintains high air cleanliness, ensuring sterility.%n%nThe CR itself does not produce anything but allows recipes labeled Needs Cleanroom to be executed.%n%nThe size of the CR is determined by the scale of the available mechanisms, but is limited within the range of 3x3x3 to 15x15x15.%n%nTo maintain the sterility of the CR, it requires a small but stable power consumption. During CR cleaning (from 0 to 100%%), more energy is consumed than usual. The cleaning speed depends on the voltage tier of the power system and the dimensions of the CR.%n%nTo start a recipe in machines inside the cleanroom, you need to wait for a complete cleaning (up to 100%%).%nThe success rate of the craft operation with the Needs Cleanroom requirement directly depends on the cleanliness of the CR. Therefore, it is necessary to ensure that the CR operates without breakdowns.%n%nTo transmit electricity from an external source to the machines inside the CR, you need to use Diode Cable, which is embedded in the CR wall. The side of the Diode Cable that is different from the others is the electricity output.%nDiode Cable can also be used to limit the transmitted amperage.
 
 impact.394.name=Jetpack
 
@@ -1774,7 +1774,7 @@ impact.441.desc=Hastelloy C-276 alloy is the gateway to level IV electricity. %n
 
 impact.442.name=Combustion Engine Mk1
 
-impact.442.desc=The multi-block internal combustion engine consumes liquid fuel, lubricant, and produces electrical energy.%n%nThe Muffler Hatch needs to be placed in the middle of the top side, closer to the back wall (second to last block).%nLiquid input and maintenance hatch are located in the middle of the long sides of the casing.%n8 Engine Intake Casings make up the front wall (with the controller in the center). There should be air blocks in front of them.%nDynamo Hatch is located in the middle of the back wall.%n%nIt has two operating modes:%n%nFirst: produces 2048 eu/t.%nFuel efficiency - 100%.%n%nSecond: produces 6144 eu/t.%nFuel efficiency - 150%.%nThat is, 3 times the energy and 2 times the fuel compared to the first mode.%n%nTo switch to the second mode, additional oxygen at a rate of 40 L/s is required.%n%nIt takes time to reach maximum power.%n%n-----%nCombustion Engine Mk2 operates similarly, generating 4 times more electricity compared to Mk1.
+impact.442.desc=The multi-block internal combustion engine consumes liquid fuel, lubricant, and produces electrical energy.%n%nThe Muffler Hatch needs to be placed in the middle of the top side, closer to the back wall (second to last block).%nLiquid input and maintenance hatch are located in the middle of the long sides of the casing.%n8 Engine Intake Casings make up the front wall (with the controller in the center). There should be air blocks in front of them.%nDynamo Hatch is located in the middle of the back wall.%n%nIt has two operating modes:%n%nFirst: produces 2048 eu/t.%nFuel efficiency - 100%%.%n%nSecond: produces 6144 eu/t.%nFuel efficiency - 150%%.%nThat is, 3 times the energy and 2 times the fuel compared to the first mode.%n%nTo switch to the second mode, additional oxygen at a rate of 40 L/s is required.%n%nIt takes time to reach maximum power.%n%n-----%nCombustion Engine Mk2 operates similarly, generating 4 times more electricity compared to Mk1.
 
 impact.443.name=Graphene Wire
 
@@ -2162,7 +2162,7 @@ impact.538.desc=This machine washes dirty dust without obtaining any by-products
 
 impact.539.name=Large Heat Exchanger
 
-impact.539.desc=A Large Heat Exchanger is a multi-block machine designed to produce steam or superheated steam from hot coolant (produced in a nuclear reactor) or lava.%n%nThe input for the hot coolant is at the center of the bottom side.%nThe output for the cooled coolant is at the center of the top side.%nThe input for distilled water can be any free block of the casing.%nThe output for steam or superheated steam can be any free block of the casing.%n%nNo power supply is required.%n%nThe heat exchanger will explode without the supply of distilled water.%n%nTime is needed for the heat exchanger to heat up and reach 100% efficiency.%n%nUse a liquid regulator to supply hot liquid.%n%nWhen supplying lava at a rate of up to 1000 L/t, normal steam will be produced in a ratio of 1:160.%nWhen supplying lava at a rate of 1000 L/t to 2000 L/t (max), superheated steam will be produced in a ratio of 1:80.%nWhen supplying hot coolant at a rate of up to 800 L/t, normal steam will be produced in a ratio of 1:400.%nWhen supplying hot coolant at a rate of 800 L/t to 1600 L/t (max), superheated steam will be produced in a ratio of 1:200.%n%nThe consumption of distilled water is 1:160 of the produced normal steam and 1:80 of the superheated steam.%n%nHint:%nLarge amounts of distilled water can be obtained from large steam turbines.%n%nThe production threshold of superheated steam can be reduced with a configured microchip.%nHowever, the production efficiency of steam will be decreased.
+impact.539.desc=A Large Heat Exchanger is a multi-block machine designed to produce steam or superheated steam from hot coolant (produced in a nuclear reactor) or lava.%n%nThe input for the hot coolant is at the center of the bottom side.%nThe output for the cooled coolant is at the center of the top side.%nThe input for distilled water can be any free block of the casing.%nThe output for steam or superheated steam can be any free block of the casing.%n%nNo power supply is required.%n%nThe heat exchanger will explode without the supply of distilled water.%n%nTime is needed for the heat exchanger to heat up and reach 100%% efficiency.%n%nUse a liquid regulator to supply hot liquid.%n%nWhen supplying lava at a rate of up to 1000 L/t, normal steam will be produced in a ratio of 1:160.%nWhen supplying lava at a rate of 1000 L/t to 2000 L/t (max), superheated steam will be produced in a ratio of 1:80.%nWhen supplying hot coolant at a rate of up to 800 L/t, normal steam will be produced in a ratio of 1:400.%nWhen supplying hot coolant at a rate of 800 L/t to 1600 L/t (max), superheated steam will be produced in a ratio of 1:200.%n%nThe consumption of distilled water is 1:160 of the produced normal steam and 1:80 of the superheated steam.%n%nHint:%nLarge amounts of distilled water can be obtained from large steam turbines.%n%nThe production threshold of superheated steam can be reduced with a configured microchip.%nHowever, the production efficiency of steam will be decreased.
 
 impact.540.name=Fusion Mark V
 
@@ -2322,7 +2322,7 @@ impact.578.desc=A mechanism designed for efficient processing of ore obtained fr
 
 impact.579.name=Raw Mysterious Crystal Chip Parts
 
-impact.579.desc=A whole part can be grown from a raw chip shard using sterilized bio medium with a success rate of 90%.%nAlternatively, Mutagen can be used with a success rate of 60%.
+impact.579.desc=A whole part can be grown from a raw chip shard using sterilized bio medium with a success rate of 90%%.%nAlternatively, Mutagen can be used with a success rate of 60%%.
 
 impact.580.name=Bronze Plated Blast Furnace
 
@@ -2390,7 +2390,7 @@ impact.595.desc=An automatic maintenance hatch for multiblocks.%n%nTo automatica
 
 impact.596.name=Wind Generator
 
-impact.596.desc=Wind energy can be converted into electricity.%n%nA kinetic generator produces electricity from the kinetic energy generated by the kinetic wind generator through the rotation of the rotor.%n%nA wind gauge is used to measure wind force.%nWind force depends on the height. The maximum wind force is at a height of 130 blocks from bedrock.%n%n1. Install the kinetic wind generator. The front side (facing you during installation) is the location of the rotor rotation. The back side is the location for installing the kinetic generator.%n%n2. Insert the rotor into the wind generator slot. The space occupied by the rotor must be empty. If the wind force is not sufficient to rotate the rotor (compare the rotor specifications with the wind gauge data), it will not rotate.%n%n3. Install the kinetic generator behind the wind generator. The front side should be closely attached to the back side of the wind generator.%n%n4. To extract energy from the kinetic generator, place a transformer close to its back side. In some cases, wires can also extract electricity (including those connected to the side walls of the kinetic generator).%nPlease note that rain increases production by 20% and thunderstorms by 50%.
+impact.596.desc=Wind energy can be converted into electricity.%n%nA kinetic generator produces electricity from the kinetic energy generated by the kinetic wind generator through the rotation of the rotor.%n%nA wind gauge is used to measure wind force.%nWind force depends on the height. The maximum wind force is at a height of 130 blocks from bedrock.%n%n1. Install the kinetic wind generator. The front side (facing you during installation) is the location of the rotor rotation. The back side is the location for installing the kinetic generator.%n%n2. Insert the rotor into the wind generator slot. The space occupied by the rotor must be empty. If the wind force is not sufficient to rotate the rotor (compare the rotor specifications with the wind gauge data), it will not rotate.%n%n3. Install the kinetic generator behind the wind generator. The front side should be closely attached to the back side of the wind generator.%n%n4. To extract energy from the kinetic generator, place a transformer close to its back side. In some cases, wires can also extract electricity (including those connected to the side walls of the kinetic generator).%nPlease note that rain increases production by 20%% and thunderstorms by 50%%.
 
 impact.597.name=ASoC Wafer
 
@@ -2478,7 +2478,7 @@ impact.617.desc=Provides multiblocks with LuV voltage.
 
 impact.618.name=Hyper Generator
 
-impact.618.desc=Powerful generator fueled by hyper fuel (Hyper Fuel I, II, III).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100% efficiency (20 seconds for acceleration).%n%nOutput power - 134,217,728 EU/t.%n%nQuantum Stuff appears in the center upon correct assembly of the structure.
+impact.618.desc=Powerful generator fueled by hyper fuel (Hyper Fuel I, II, III).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100%% efficiency (20 seconds for acceleration).%n%nOutput power - 134,217,728 EU/t.%n%nQuantum Stuff appears in the center upon correct assembly of the structure.
 
 impact.619.name=UV Plasma Generator
 
@@ -2498,7 +2498,7 @@ impact.622.desc=Transfers items, fluids, and energy wirelessly over any distance
 
 impact.623.name=Liquid Naquadah Generator
 
-impact.623.desc=A powerful generator that runs on regular naquadah fuel (Light, Medium, Heavy Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100% efficiency (20 seconds of acceleration).%n%nOutput power - 524,288 EU/t.%n%nThe color of I-Glass in the structure does not matter.%n%nQuantum Stuff appears in the center when the structure is assembled correctly.%n%nElectricity can be extracted by placing multi-ampere LuV Dynamo Hatches.%nA total of 16A LuV voltage needs to be extracted.
+impact.623.desc=A powerful generator that runs on regular naquadah fuel (Light, Medium, Heavy Naquadah Fuel).%n%nUp to 3 Input Hatches can be installed for 3 types of fuel.%n%nThe generator starts producing energy only when it reaches 100%% efficiency (20 seconds of acceleration).%n%nOutput power - 524,288 EU/t.%n%nThe color of I-Glass in the structure does not matter.%n%nQuantum Stuff appears in the center when the structure is assembled correctly.%n%nElectricity can be extracted by placing multi-ampere LuV Dynamo Hatches.%nA total of 16A LuV voltage needs to be extracted.
 
 impact.624.name=Quantum Circuits (ZPM)
 
@@ -2510,7 +2510,7 @@ impact.625.desc=The applicator colors ME system cables and lasers.%n%nTo load co
 
 impact.626.name=Solid-Oxide Generator 1
 
-impact.626.desc=The mechanism is an alternative to a gas turbine. It consumes all types of fuel for a gas turbine (see in NEI) and oxygen, producing energy as well as regular or superheated steam.%n%nThere are 3 tiers of solid oxide generators. They differ in their casing, the amount of consumed gases, output power, and type of steam (the first one produces regular steam, the next two produce superheated steam).%n%nThe generator starts producing steam only when it reaches 100% efficiency (takes 250 seconds to ramp up).%n%nTier 1 consumes 400 L/s of oxygen and produces 2048 EU/t (EV).%nTier 2 consumes 1200 L/s of oxygen and produces 8192 EU/t (IV).%nTier 3 consumes 2000 L/s of oxygen and produces 32768 EU/t (LuV).%n%nThe fuel consumption and steam production depend on the type of fuel and are calculated similar to a gas turbine, based on the specified electricity output.
+impact.626.desc=The mechanism is an alternative to a gas turbine. It consumes all types of fuel for a gas turbine (see in NEI) and oxygen, producing energy as well as regular or superheated steam.%n%nThere are 3 tiers of solid oxide generators. They differ in their casing, the amount of consumed gases, output power, and type of steam (the first one produces regular steam, the next two produce superheated steam).%n%nThe generator starts producing steam only when it reaches 100%% efficiency (takes 250 seconds to ramp up).%n%nTier 1 consumes 400 L/s of oxygen and produces 2048 EU/t (EV).%nTier 2 consumes 1200 L/s of oxygen and produces 8192 EU/t (IV).%nTier 3 consumes 2000 L/s of oxygen and produces 32768 EU/t (LuV).%n%nThe fuel consumption and steam production depend on the type of fuel and are calculated similar to a gas turbine, based on the specified electricity output.
 
 impact.627.name=Cosmic Neutronium Ingot
 
@@ -2574,7 +2574,7 @@ impact.641.desc=An alloy used to make UEV machine casings.
 
 impact.642.name=Advanced Electric Miner
 
-impact.642.desc=The advanced electric miner mines ore in the entire vein within the chunk it is located in.%n%nThe miner has a mining bonus. The mined ore is crushed (5% chance of crushing).%n%nA Drill Head is placed in the Drill Hatch.%n%nMiner Enrichment Units can be placed instead of any HSLA Machine Casing.%n%nUsing a Miner Enrichment Unit, the advanced miner increases ore output and performs the initial ore processing.%nThe Enrichment Unit performs the Flotation Unit recipes. Energy is summed according to the recipe.%n%nExample for a recipe with 480 EU/t and a fluid consumption of 1000L:%nIf you have a level 3 Drill Head, it means that ore of the same type is mined x4, based on this:%nEnergy consumption = 4 * 480 = 1920 EU/t + miner's base consumption.%nFluid consumption = 4 * 1000 = 4000L.%n%nTime is not taken into account.%n%n%nOnly one miner can be present in a single chunk!
+impact.642.desc=The advanced electric miner mines ore in the entire vein within the chunk it is located in.%n%nThe miner has a mining bonus. The mined ore is crushed (5%% chance of crushing).%n%nA Drill Head is placed in the Drill Hatch.%n%nMiner Enrichment Units can be placed instead of any HSLA Machine Casing.%n%nUsing a Miner Enrichment Unit, the advanced miner increases ore output and performs the initial ore processing.%nThe Enrichment Unit performs the Flotation Unit recipes. Energy is summed according to the recipe.%n%nExample for a recipe with 480 EU/t and a fluid consumption of 1000L:%nIf you have a level 3 Drill Head, it means that ore of the same type is mined x4, based on this:%nEnergy consumption = 4 * 480 = 1920 EU/t + miner's base consumption.%nFluid consumption = 4 * 1000 = 4000L.%n%nTime is not taken into account.%n%n%nOnly one miner can be present in a single chunk!
 
 impact.643.name=Enriched Naquadah Dust
 
